@@ -136,7 +136,7 @@
 
 <div>
   
-  <p align="center">
+  <p align="left">
  <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvsinn" alt="GitHub Stats" /> <br/><br/>
   
