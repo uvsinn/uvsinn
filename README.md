@@ -1,27 +1,165 @@
-<h1 align="center">Hi 👋, I'm YUVRAJ</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=ffffff&vCenter=true&center=true&width=460&lines=Hi👋,+I'm+Yuvraj;Software+Engineer">
+</h1>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uvsinn&label=Profile%20views&color=0e75b6&style=flat" alt="uvsinn" /> </p>
+## 💫 About Me:
+- 🔭 I’m currently working on Blockchain Development
+  
+- 🌱 I’m currently learning Smart Contracts.
+  
+- 👯  I’m looking to collaborate on any project idea..
+  
+- 💬  Feel free to reach out to me for any tech related stuff
+  
+- 📫 How to reach me: yuvrajsinghshishodia@gmail.com
 
-- 🔭 I’m currently working on **Blockchain technology**
 
-- 🌱 I’m currently learning **Blockchain**
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px height=40px> </h2>
 
-- 📫 How to reach me **yuvrajsinghshishodia@gmail.com**
+  
+### 🛠 Languages
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/uvsinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uvsinn" height="30" width="40" /></a>
-<a href="https://instagram.com/_uvsin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_uvsin_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/uvsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="uvsin" height="30" width="40" /></a>
+<p align="left"> 
+ 
+<a href="https://python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  </a>
+  &emsp;
+<a href="https://www.cprogramming.com/">
+    <img alt="C" src="https://img.shields.io/badge/C-3498DB?style=for-the-badge&logo=c&logoColor=white"/>
+  </a>
+ &emsp;
+<a href="https://www.cplusplus.com/en/">
+    <img alt="C++" src="https://img.shields.io/badge/C++-4481EB?style=for-the-badge&logo=c++&logoColor=white"/>
+  </a>
+ &emsp;
+<a href="https://www.SQL.com/en/">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-4DB33D?style=for-the-badge&logo=SQL&logoColor=white"/>
+  </a>
+ &emsp;
+<a href="https://www.html.com/en/">
+    <img alt="HTML" src="https://img.shields.io/badge/Html-E44D26?style=for-the-badge&logo=html&logoColor=white"/>
+  </a>
+   &emsp;
+<a href="https://www.css.com/en/">
+    <img alt="Css" src="https://img.shields.io/badge/Css-4481EB?style=for-the-badge&logo=css&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://www.javascript.com/en/">
+    <img alt="JS" src="https://img.shields.io/badge/JS-f0db4f?style=for-the-badge&logo=javascript&logoColor=white"/>
+  </a>
+ &emsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🛠  Tech Stack
+<p align="left"> 
+&emsp;
+  
+  <a href="https://www.machilelearning.org/" target="_blank"> 
+   <img alt="Machine Learning" src="https://img.shields.io/badge/MACHINE LEARNING-dd1b16?style=for-the-badge&logo=MACHINE LEARNING&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://oracle.com/" target="_blank">
+    <img alt="Oracle" src="https://img.shields.io/badge/ORACLE-68A063?style=for-the-badge&logo=ORACLE&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://matplot.com/" target="_blank"> 
+    <img alt="Matplotlib" src="https://img.shields.io/badge/MATPLOTLIB-4DB33D?style=for-the-badge&logo=MATPLOTLIB&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://mysql.com/" target="_blank"> 
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  </a>
+     &emsp;
+  <a href="https://numpy.com/" target="_blank"> 
+    <img alt="NUMPY" src="https://img.shields.io/badge/NUMPY-563d7c?style=for-the-badge&logo=NUMPY&logoColor=white"/>
+  </a>
+     &emsp;
+  <a href="https://tensorflow.com/" target="_blank"> 
+    <img alt="TENSORFLOW" src="https://img.shields.io/badge/TENSORFLOW-092e20?style=for-the-badge&logo=TENSORFLOW&logoColor=white"/>
+  </a>
+     &emsp;
+  <a href="https://sql.com/" target="_blank"> 
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-c6d7b9?style=for-the-badge&logo=SQL&logoColor=white"/>
+  </a>
+  &emsp;
+     &emsp;
+  <a href="https://pandas.com/" target="_blank"> 
+    <img alt="PANDAS" src="https://img.shields.io/badge/PANDAS-0769ad?style=for-the-badge&logo=PANDAS&logoColor=white"/>
+  </a>
+     &emsp;
+  <a href="https://git.com/" target="_blank"> 
+    <img alt="git" src="https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>
+     &emsp;
+  <a href="https://github.com/" target="_blank"> 
+    <img alt="github" src="https://img.shields.io/badge/github-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+     &emsp;
+  <a href="https://scikit.com/" target="_blank"> 
+    <img alt="SCIKIT" src="https://img.shields.io/badge/SCIKIT-F5820D?style=for-the-badge&logo=SCIKIT&logoColor=white"/>
+  </a>
+     &emsp;
+  <a href="https://seaborn.com/" target="_blank"> 
+    <img alt="SEABORN" src="https://img.shields.io/badge/SEABORN-CD6799?style=for-the-badge&logo=SEABORN&logoColor=white"/>
+  </a>
+     &emsp;
+  <a href="https://googlecloud.com/" target="_blank"> 
+    <img alt="GCP" src="https://img.shields.io/badge/GCP-3f51b5?style=for-the-badge&logo=GCP&logoColor=white"/>
+  </a>
+     &emsp;
+  <a href="https://matlab.com/" target="_blank"> 
+    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-800000?style=for-the-badge&logo=MATLAB&logoColor=white"/>
+  </a>
+     &emsp;
+  <a href="https://docker.com/" target="_blank"> 
+    <img alt="docker" src="https://img.shields.io/badge/Docker-4481eb?style=for-the-badge&logo=Docker&logoColor=white"/>
+  </a>
+     &emsp;
+  <a href="https://linux.com/" target="_blank"> 
+    <img alt="LINUX" src="https://img.shields.io/badge/LINUX-3DDC84?style=for-the-badge&logo=LINUX&logoColor=white"/>
+  </a>
+     &emsp;
+  <a href="https://vscode.com/" target="_blank"> 
+    <img alt="VSCode" src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=VSCode&logoColor=white"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uvsinn&show_icons=true&locale=en&layout=compact" alt="uvsinn" /></p>
+## 🌐 Coding Profile:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uvsinn&show_icons=true&locale=en" alt="uvsinn" /></p>
+[![Leetcode](https://img.shields.io/badge/Leetcode-%2320232a.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/uvsin/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uvsinn&" alt="uvsinn" /></p>
+<div align="left">
+    <img style=" width: 375px;" src="https://leetcard.jacoblin.cool/uvsin?theme=light&font=Noto%20Sans%20Math" />
+</div>
+<h2>⚙️  GitHub Analytics</h2>
+
+<div>
+  
+  <p align="center">
+ <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvsinn" alt="GitHub Stats" /> <br/><br/>
+  
+</div>
+
+![My github status](https://github-readme-stats.vercel.app/api?username=uvsinn&show_icons=true&include_all_commits=true)
+
+## 📈 Productivity Stats:
+
+<div align="left" >
+ <img style="width:795px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uvsinn&theme=github"  display=block width=100% height=auto  alt="profile-summary" >
+<div>
+  
+  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width = 20px height=40px> </h2>
+  
+  <p align="center">
+	<a href="mailto:yuvrajsinghshishodia@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/uvsinn"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/uvsinn/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://instagram.com/_uvsin_"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
+</p>
+  
+    
+  <p align="center">
+	<h5 align="center">Thanks for visiting ❤️</h5>
+</p>
